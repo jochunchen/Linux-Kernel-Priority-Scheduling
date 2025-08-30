@@ -1,4 +1,4 @@
-# Linux-Kernel-Priority-Scheduling
+# Linux Kernel Priority Scheduling
 This repository contains the source code and documentation for two projects focused on modifying the Linux kernel's scheduler. The projects were completed on an Ubuntu Server environment, demonstrating the ability to compile a custom kernel, add new system calls, and alter core scheduling behavior to meet specific performance goals.
 
 ## Project 1: Modifying static_prio
